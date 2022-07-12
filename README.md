@@ -24,4 +24,4 @@ Enter the query: misspeled
 The entered query's "misspeled" definition not found.
 ```
 #### Feedback 🧐 -
-- If you have any suggestions or improvements, create issues or a pull request. 🎉
+- If you have any suggestions or improvements, create [issues](https://github.com/SandeepUrankar/DictionarySearch/issues/new) or a pull request. 🎉
