@@ -10,7 +10,7 @@
 - If the definition for the input is not found it will show the appropriate error message. ❌
 - All the logs are entered into the [logs.txt](https://github.com/SandeepUrankar/DictionarySearch/blob/main/logs.txt). 🔏
 
-### Sample Output -
+### Sample Output 🦚 -
 ```
 Enter the query: Log
  LOG
