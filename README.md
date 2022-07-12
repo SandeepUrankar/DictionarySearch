@@ -9,3 +9,6 @@
 - The input's definition will be printed by accessing the value of the input from the said data structure. ✅
 - If the definition for the input is not found it will show the appropriate error message. ❌
 - All the logs are entered into the logs.txt. 🔏
+
+#### Feedback -
+- If you have any suggestions or improvements, create issues or a pull request. 🎉
