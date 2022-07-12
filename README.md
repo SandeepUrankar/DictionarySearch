@@ -10,5 +10,18 @@
 - If the definition for the input is not found it will show the appropriate error message. ❌
 - All the logs are entered into the [logs.txt](https://github.com/SandeepUrankar/DictionarySearch/blob/main/logs.txt). 🔏
 
+### Sample Output -
+```
+Enter the query: Log
+ LOG
+ Log, v. i.
+ 1. To engage in the business of cutting or transporting logs for
+ timber; to get out logs. [U.S.]
+ 2. To move to and fro; to rock. [Obs.]
+```
+```
+Enter the query: misspeled
+The entered query's "misspeled" definition not found.
+```
 #### Feedback -
 - If you have any suggestions or improvements, create issues or a pull request. 🎉

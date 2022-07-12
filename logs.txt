@@ -35,3 +35,33 @@
 2022-07-12 20:28:18.964704	The entered query's "Laptop" definition not found.
 2022-07-12 20:28:18.965904	Closing the opened file.
 2022-07-12 20:28:18.966707	Done closing the opened file.
+2022-07-12 20:50:42.253321	Opening file dictionary/dictionary.txt.
+2022-07-12 20:50:42.254421	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:50:42.254421	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:50:43.457130	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:50:43.458330	Taking query input from user.
+2022-07-12 20:50:53.293612	The query entered by the user is Logs.
+2022-07-12 20:50:53.293852	Searching "Logs" from the dictionary data structure.
+2022-07-12 20:50:53.294855	The entered query's "Logs" definition not found.
+2022-07-12 20:50:53.296117	Closing the opened file.
+2022-07-12 20:50:53.296855	Done closing the opened file.
+2022-07-12 20:50:56.689374	Opening file dictionary/dictionary.txt.
+2022-07-12 20:50:56.690372	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:50:56.690673	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:50:57.785374	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:50:57.785374	Taking query input from user.
+2022-07-12 20:51:00.686241	The query entered by the user is Log.
+2022-07-12 20:51:00.686484	Searching "Log" from the dictionary data structure.
+2022-07-12 20:51:00.687245	The entered query's "Log" definition found and printing it.
+2022-07-12 20:51:00.688241	Closing the opened file.
+2022-07-12 20:51:00.688241	Done closing the opened file.
+2022-07-12 20:52:52.204636	Opening file dictionary/dictionary.txt.
+2022-07-12 20:52:52.205638	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:52:52.205638	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:52:53.376635	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:52:53.377175	Taking query input from user.
+2022-07-12 20:53:22.343863	The query entered by the user is misspeled.
+2022-07-12 20:53:22.344862	Searching "misspeled" from the dictionary data structure.
+2022-07-12 20:53:22.345864	The entered query's "misspeled" definition not found.
+2022-07-12 20:53:22.346030	Closing the opened file.
+2022-07-12 20:53:22.346864	Done closing the opened file.
