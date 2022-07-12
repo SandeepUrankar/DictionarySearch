@@ -11,16 +11,20 @@ def open_file(filename):
 # start
 def load_dictionary():
     create_log("Loading the data from dictionary.txt into dictionary data structure.")
+    # current_key holds the current keyword in the dictionary.
     current_key = 'none'
-    defn = ""
     global dictionary
     dictionary = dict()
     dictionary[current_key] = ''
+    # Reading the file through enumerate.
     for i, line in enumerate(file):
+        # The keywords are all in Uppercase and so the condition.
         if line.isupper():
             current_key = line.strip()
             dictionary[current_key] = ''
+        # This condition is to check if the line is empty.
         if len(line.strip()) != 0:
+            # Appending the value into the dictionary DS.
             dictionary[current_key] = dictionary[current_key] + ' ' + line
     create_log("Done loading the data from dictionary.txt into dictionary data structure.")
 
@@ -30,6 +34,7 @@ def load_dictionary():
 
 def search_in_dictionary(query):
     create_log(f'Searching "{query}" from the dictionary data structure.')
+    # If the query is present print it. Else the KeyError is handled for definition not found.
     try:
         definition_of_query = dictionary[query.strip().upper()]
         create_log(f'The entered query\'s "{query}" definition found and printing it.')

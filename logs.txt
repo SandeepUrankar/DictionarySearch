@@ -65,3 +65,16 @@
 2022-07-12 20:53:22.345864	The entered query's "misspeled" definition not found.
 2022-07-12 20:53:22.346030	Closing the opened file.
 2022-07-12 20:53:22.346864	Done closing the opened file.
+2022-07-12 21:01:15.931286	Opening file dictionary/dictionary.txt.
+2022-07-12 21:01:15.931286	Done opening file dictionary/dictionary.txt.
+2022-07-12 21:01:15.932284	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 21:04:56.852069	Opening file dictionary/dictionary.txt.
+2022-07-12 21:04:56.853070	Done opening file dictionary/dictionary.txt.
+2022-07-12 21:04:56.854069	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 21:04:57.820337	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 21:04:57.821069	Taking query input from user.
+2022-07-12 21:05:00.467099	The query entered by the user is Bye.
+2022-07-12 21:05:00.467395	Searching "Bye" from the dictionary data structure.
+2022-07-12 21:05:00.468026	The entered query's "Bye" definition found and printing it.
+2022-07-12 21:05:00.469020	Closing the opened file.
+2022-07-12 21:05:00.469020	Done closing the opened file.
