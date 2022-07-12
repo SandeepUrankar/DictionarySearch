@@ -1,0 +1,37 @@
+2022-07-12 20:18:08.404420	Opening file dictionary/dictionary.txt.
+2022-07-12 20:18:08.418267	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:18:08.423239	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:18:10.384243	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:18:12.908003	Searching "paic" from the dictionary data structure.
+2022-07-12 20:23:32.918120	Opening file dictionary/dictionary.txt.
+2022-07-12 20:23:32.918120	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:23:32.919446	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:23:33.920123	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:23:36.597269	Searching "paic" from the dictionary data structure.
+2022-07-12 20:23:36.598278	The entered query's "paic" definition not found.
+2022-07-12 20:24:03.313984	Opening file dictionary/dictionary.txt.
+2022-07-12 20:24:03.314984	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:24:03.314984	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:24:04.131982	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:24:09.155613	Searching "panic" from the dictionary data structure.
+2022-07-12 20:24:09.156616	The entered query's "panic" definition found and printing it.
+2022-07-12 20:27:51.123804	Opening file dictionary/dictionary.txt.
+2022-07-12 20:27:51.124933	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:27:51.124933	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:27:52.145844	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:27:52.146202	Taking query input from user.
+2022-07-12 20:27:55.005934	The query entered by the user is panic.
+2022-07-12 20:27:55.006932	Searching "panic" from the dictionary data structure.
+2022-07-12 20:27:55.007935	The entered query's "panic" definition found and printing it.
+2022-07-12 20:27:55.007935	Closing the opened file.
+2022-07-12 20:27:55.008933	Done closing the opened file.
+2022-07-12 20:28:10.443449	Opening file dictionary/dictionary.txt.
+2022-07-12 20:28:10.444190	Done opening file dictionary/dictionary.txt.
+2022-07-12 20:28:10.445497	Loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:28:11.453191	Done loading the data from dictionary.txt into dictionary data structure.
+2022-07-12 20:28:11.454261	Taking query input from user.
+2022-07-12 20:28:18.963703	The query entered by the user is Laptop.
+2022-07-12 20:28:18.964704	Searching "Laptop" from the dictionary data structure.
+2022-07-12 20:28:18.964704	The entered query's "Laptop" definition not found.
+2022-07-12 20:28:18.965904	Closing the opened file.
+2022-07-12 20:28:18.966707	Done closing the opened file.
