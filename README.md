@@ -23,5 +23,5 @@ Enter the query: Log
 Enter the query: misspeled
 The entered query's "misspeled" definition not found.
 ```
-#### Feedback -
+#### Feedback 🧐 -
 - If you have any suggestions or improvements, create issues or a pull request. 🎉
